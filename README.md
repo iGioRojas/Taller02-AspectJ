@@ -1,8 +1,10 @@
 # Taller02-AspectJ
-INTEGRANTES: 
+# INTEGRANTES: 
 
 Geovanny Rojas
+
 Douglas Sabando
+
 Astrid Parra
 
 IMAGE CODE 
